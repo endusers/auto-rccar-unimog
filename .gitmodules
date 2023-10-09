@@ -1,0 +1,6 @@
+[submodule "auto-rccar-toy"]
+	path = auto-rccar-toy
+	url = https://github.com/endusers/auto-rccar-toy.git
+[submodule "m5stack-rccar-toy"]
+	path = m5stack-rccar-toy
+	url = https://github.com/endusers/m5stack-rccar-toy.git
