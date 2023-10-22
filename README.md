@@ -16,7 +16,7 @@ Googole My Mapsで設定した経路に沿って走ります
 
 <table>
 <tr>
-<td><img width="640" src=""></td>
+<td><img width="640" src="./assets/movie/auto-rccar-unimog-02_mobile.gif"></td>
 </tr>
 </table>
 
